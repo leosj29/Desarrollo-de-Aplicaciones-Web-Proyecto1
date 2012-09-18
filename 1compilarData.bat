@@ -1,0 +1,2 @@
+
+javac -cp "acueducto/WEB-INF/classes";"acueducto/WEB-INF/lib/*" -d acueducto/WEB-INF/classes src/data/TableGateway.java src/data/PozoGateway.java src/data/BombaGateway.java  src/data/EstacionGateway.java  src/data/MedidorGateway.java src/data/TanqueGateway.java src/data/TuberiaGateway.java src/data/ValvulaGateway.java
